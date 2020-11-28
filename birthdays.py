@@ -8,7 +8,8 @@ birthdays = {
     'Benjamin Franklin': '01/17/1706',
     'Ada Lovelace': '12/10/1815',
     'Donald Trump': '06/14/1946',
-    'Rowan Atkinson': '01/6/1955'}
+    'Rowan Atkinson': '01/6/1955'
+    'Barack Obama': '04/08/1961'}
 
 def print_birthdays():
     print('Welcome to the birthday dictionary. We know the birthdays of these people:')
