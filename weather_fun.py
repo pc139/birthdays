@@ -20,7 +20,8 @@ class Weather_function:
             print("min_temp:", items["min_temp"])
             print("max_temp:", items["max_temp"])
             print ("------")
-
+            
+        return js["lat"],js["lon"]
 
 
 
