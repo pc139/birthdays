@@ -2,7 +2,7 @@
 
 import argparse
 import dbmanager as db
-from weather_fun import
+from weather_fun import def_min_max_day
 
 # PAY ATTENTION WHEN CHANGING PATHS!
 db_path = 'data/database.db'
